@@ -1,4 +1,3 @@
-# ContractionTimer
 # Overview
 
 The ContractionTimer app is designed to help individuals track and monitor contractions during labor, providing accurate data about the duration, frequency, and timing of contractions. This app empowers users by presenting their contraction patterns in an intuitive and organized way, helping them make informed decisions about when to head to the hospital or contact a healthcare provider.
